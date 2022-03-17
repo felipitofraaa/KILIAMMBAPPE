@@ -4,5 +4,10 @@
  h1:hover {
   color: gold;
  }
-
+img {
+    height:50%;
+    width:54%;
+    margin: auto;
+    align-self: auto;
+}
  
