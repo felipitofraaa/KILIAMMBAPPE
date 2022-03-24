@@ -1,5 +1,5 @@
  * {
- color: blueviolet;
+ color: rgb(43, 159, 226);
  }
  h1:hover {
   color: gold;
@@ -10,4 +10,9 @@ img {
     margin: auto;
     align-self: auto;
 }
- 
+h2{
+    color: ghostwhite;
+}
+h2:hover{
+    color: lime;
+}
