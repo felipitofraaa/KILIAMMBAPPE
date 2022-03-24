@@ -11,8 +11,21 @@ img {
     align-self: auto;
 }
 h2{
-    color: ghostwhite;
+    color: blue;
 }
 h2:hover{
-    color: lime;
+    color: red;
+}
+h3{
+    color: red;
+}
+h3:hover{
+    color: blue;
+}
+h4{
+    color: red;
+
+}
+h4:hover{
+    color: blue;
 }
