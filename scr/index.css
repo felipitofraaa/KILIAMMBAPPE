@@ -14,10 +14,10 @@ img {
     align-self: auto;
 }
 h2{
-    color: blue;
+    color: red;
 }
 h2:hover{
-    color: red;
+    color: blue;
 }
 h3{
     color: red;
